@@ -1,8 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="cout_learn/cout_learn.vcxproj" />
-  <Project Path="hello_world/hello_world.vcxproj" />
-</Solution>
